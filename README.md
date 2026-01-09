@@ -1,6 +1,4 @@
 # 🚀 BidWiz: The Autonomous Proposal Architect
-
-> **Winner of the Venturethon Gen AI Challenge** (Target Goal)
 >
 > *From "Copy-Paste Fatigue" to "Autonomous Dealing" in 30 minutes.*
 
@@ -43,7 +41,7 @@ Before running the project, ensure you have the following installed:
 
 To make the AI and Email Automation work, you must create a `.env` file in the **backend** directory.
 
-> **⚠️ Judges / Reviewers:** If you do not have these keys, please contact the Team Lead: **Syed Wajdan** ([clashzeerak@gmail.com](mailto:clashzeerak@gmail.com)) for a pre-configured `.env` file, or follow the steps below to generate your own.
+Follow the steps below to generate your own.
 
 ### 1. Create the File
 Create a file named `.env` in the root of the `backend` folder.
